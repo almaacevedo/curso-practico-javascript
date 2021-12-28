@@ -14,8 +14,8 @@ git commit -m "comentario de referencia"
 
 ## Construido con :hammer:
 
-_Cursos y herramientas_
+Referencias y herramientas_
 
-* [Platzi Education](https://platzi.com/) - Nunca pares de aprender
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Aprende día a día
 
 
